@@ -1,4 +1,2 @@
 #!/bin/bash
-python3 - <<'PY'
-open('\\*\\\\\'"Best School"\\\'\\\\*$\\?\\*\\*\\*\\*\\*:)', 'w').write('Best School\n')
-PY
+echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
